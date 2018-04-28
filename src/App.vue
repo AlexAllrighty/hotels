@@ -1,7 +1,6 @@
 
 
 <template>
-
   <div id="App">
     <navigation></navigation>
     <search></search>
