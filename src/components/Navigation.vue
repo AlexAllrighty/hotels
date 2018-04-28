@@ -177,7 +177,7 @@
   .navigation__sublist {
     .list-reset;
     position: absolute;
-    top: 39px;
+    top: 38px;
     background-color: white;
     color: #000000;
     border-left: 1px solid #d7d7d7;
